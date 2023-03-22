@@ -1,0 +1,21 @@
+header{
+    background-color:rgb(27, 6, 18)
+}
+h1{
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+a{
+    color: crimson;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
